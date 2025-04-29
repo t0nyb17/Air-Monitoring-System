@@ -17,7 +17,7 @@ WiFi Server:
 
 Connects to a local WiFi network.
 
-Runs a web server at http://192.168.214.204
+Runs a web server at http://192.168.219.204
 
 Web Interface:
 
